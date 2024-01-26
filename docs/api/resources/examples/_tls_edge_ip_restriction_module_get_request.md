@@ -7,5 +7,5 @@ curl \
 -X GET \
 -H "Authorization: Bearer {API_KEY}" \
 -H "Ngrok-Version: 2" \
-https://api.ngrok.com/edges/tls/edgtls_2bMmXXVPbSPOpSriepl4HFYrxPs/ip_restriction
+https://api.ngrok.com/edges/tls/edgtls_2bV9eCph0FqX4j4axJuudlBTqki/ip_restriction
 ```

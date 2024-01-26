@@ -4,9 +4,9 @@
 
 ```json
 {
-	"id": "abrp_2bMmWZSTAtvJAvsfZCy0oZ7GRKa",
-	"uri": "https://api.ngrok.com/abuse_reports/abrp_2bMmWZSTAtvJAvsfZCy0oZ7GRKa",
-	"created_at": "2024-01-23T18:09:13Z",
+	"id": "abrp_2bV9cvKygCtB5NaxpuWbOgyCLHA",
+	"uri": "https://api.ngrok.com/abuse_reports/abrp_2bV9cvKygCtB5NaxpuWbOgyCLHA",
+	"created_at": "2024-01-26T17:17:41Z",
 	"urls": ["http://legit-facebook-login.ngrok.io/login"],
 	"metadata": "{\"incident_id\":1233122}",
 	"status": "PROCESSED",
